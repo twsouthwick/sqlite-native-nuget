@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>sqlite-native</id>
+        <version>3.8.8.1</version>
+        <title>sqlite-native</title>
+        <authors>Taylor Southwick</authors>
+        <owners>Taylor Southwick</owners>
+        <licenseUrl>https://github.com/twsouthwick/sqlite-native-nuget/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/twsouthwick/sqlite-native-nuget</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Provides the binaries found in Sqlite VSIX files as a nuget so they can be more easily versioned</description>
+        <tags>sqlite winrt</tags>
+    </metadata>
+</package>

@@ -1,0 +1,1 @@
+In order for sqlite3.dll to work, you must add a reference to the extension SDK 'Microsoft Visual C++ 2013 Runtime Package for Windows'.
